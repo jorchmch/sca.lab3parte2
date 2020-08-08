@@ -1,3 +1,4 @@
+% % https://octave-online.net/bucket~KfDr1kERxjkZDP7LrDMhWL
 clc,clear;
 ap=[0 1 0 0;24.036 0 0 0;0 0 0 1;-0.239 0 0 0]; 
 bp=[0;-4.789;0;1.437];
